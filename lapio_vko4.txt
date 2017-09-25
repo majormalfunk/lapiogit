@@ -3,3 +3,5 @@ Toka rivi.
 Kolmas rivikin tarvitaan myöhemmin.
 Tämä rivi on kirjoitettu GitHub.comissa
 Nyt pistetään Git sekaisin.
+Lisää rivejä nanossa.
+
